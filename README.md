@@ -19,4 +19,3 @@ cp -r instructions /PATH/TO/WORKING/REPOSITORY/.github/
 **References:**
 
 - [GitHub Docs: Add repository instructions for Copilot](https://docs.github.com/en/copilot/how-tos/configure-custom-instructions/add-repository-instructions?tool=vscode)
-- [copilot.yml reference](https://docs.github.com/en/copilot/how-tos/configure-custom-instructions/copilot-custom-instructions-reference)
